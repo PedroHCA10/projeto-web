@@ -27,7 +27,7 @@
     /* Botão estilizado */
     button {
     background-color: #000000;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
     font-size: 1.2em;
     border: none;
